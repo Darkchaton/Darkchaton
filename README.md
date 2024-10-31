@@ -29,14 +29,14 @@
 ## 🚀 Current Goals
 
 - 💻 Currently looking for an internship that will start in May 2025
-- 📚 
+- 📚 Perfect some of my projects
 - 🎨 Publish my web development and game development portfolio
 
 ---
 
 ## 📫 Connect with Me  ✨
 
-- **LinkedIn**: [LinkedIn profile]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/amélia-d-239496324/)) 
+- **LinkedIn**: [LinkedIn profile](https://www.linkedin.com/in/amélia-d-239496324/)
 - **Email**: ameliadulac12345@gmail.com
 
 ---
