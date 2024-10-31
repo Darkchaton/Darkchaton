@@ -5,12 +5,12 @@
 
 ## 🎯 My Skills
 
-- **Programming Languages**: Java, C#, Python, C++, JS, HTML and Css
-- **Technologies**: Unity, Unreal Engine, Ren'Py
+- **Programming Languages**: Java, C#, Python, C++, JS, HTML, Css
+- **Technologies**: Unity, Unreal Engine, Ren'Py, Godot
 - **Design & Creation**: Ibis Paint and Picsart
-- **Databases**: MySQL, SQL and PhP 
+- **Databases**: MySQL, Access
 
-## 🔥 Featured Principal Projects
+## 🔥 Featured PRINCIPAL Projects
 
 ### 🎮 Doll
 **Description**: The mid-term project that I developed during my 4th session. I took a lot of inspiration from the game Alisa, bringing to life a prototype where you control a doll that has to escape from a dark and dangerous mansion.
