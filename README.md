@@ -32,13 +32,11 @@
 - 📚 Perfect some of my projects
 - 🎨 Publish my web development and game development portfolio
 
----
-
 ## 📫 Connect with Me  ✨
 
 - **LinkedIn**: [LinkedIn profile](https://www.linkedin.com/in/amélia-d-239496324/)
 - **Email**: ameliadulac12345@gmail.com
 
----
+#
 
 Thank you for stopping by! Feel free to reach out to discuss projects or eventual collaborations ✨
