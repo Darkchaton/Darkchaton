@@ -19,7 +19,7 @@
 - 🛠️ **Technologies**: Unreal Engine 5, blueprints and VROID
 - 💡 **Main Features**: VROID character, Blueprints skills, UI, Design environment, HUD.
 
-### 🖥️ Final project of the 5th session 
+### 🖥️ Scattered mind
 **Description**: Inspired by Unsorted Horror games, the player must solve a series of puzzles and mini games in a macabre sci-fi industrial universe. 
 
 - 🌱 **State**: Still in Development
