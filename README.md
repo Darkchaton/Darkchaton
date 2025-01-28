@@ -12,14 +12,14 @@
 
 ## 🔥 Featured PRINCIPAL Projects
 
-### 🎮 Doll
+### 🎭 Doll
 **Description**: The mid-term project that I developed during my 4th session. I took a lot of inspiration from the game Alisa, bringing to life a prototype where you control a doll that has to escape from a dark and dangerous mansion.
 
 - 🌱 **State**: Prototype
 - 🛠️ **Technologies**: Unreal Engine 5, blueprints and VROID
 - 💡 **Main Features**: VROID character, Blueprints skills, UI, Design environment, HUD.
 
-### 🖥️ Scattered Mind
+### 🧠 Fractured Mind
 **Description**: Inspired by Unsorted Horror games, the player must solve a series of puzzles and mini games in a macabre sci-fi industrial universe. 
 
 - 🌱 **State**: Still in Development
