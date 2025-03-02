@@ -26,12 +26,13 @@
 - 🛠️ **Technologies**: Unreal Engine 5, blueprints and c++
 - 💡 **Main Features**: Blueprints skills, puzzles, Design Environment
 
-### 💕 Tooditown
-**Description**: An RPG-like game that explores both the darkest and the best areas of childhood, all the while bringing the player into a Dreamcore/Weirdcore world and into a deep, captivating story.
+### 💕 Magnet Runner
+**Description**: A game developed during my third session - It's a platform game using gravity and opposing forces
 
-- 🌱 **State**: Still in Development (Prologue)
+- 🌱 **State**: Finished 
 - 🛠️ **Technologies**: Unity, c#
-- 💡 **Main Features**: Choices, Moral Dilemmas, Puzzles, Design Environment, Different kind of styles (2D, 2.5D, 3D...)
+- 💡 **Main Features**: Design and development of a gravity-based game, creation of an interactive course using game mechanics based on opposing forces, the emphasis is on the colors used (blue vs red), designed as a team by sharing ideas and collaborating throughout the project
+
 
 ## 🚀 Current Goals
 
