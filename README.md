@@ -26,7 +26,7 @@
 - 🌱 **State**: Still in Development
 - 🛠️ **Technologies**: Unreal Engine 5, blueprints and c++
 - 💡 **Main Features**: Blueprints skills, puzzles, Design Environment
-- **Link**:
+- **Link**: https://github.com/Darkchaton/FracturedMind (Not a build yet)
 
 ### ⚙️ Magnet Runner
 **Description**: A game developed during my third school session - It's a platform game using gravity and opposing forces.
@@ -34,7 +34,7 @@
 - 🌱 **State**: Finished 
 - 🛠️ **Technologies**: Unity, c#
 - 💡 **Main Features**: Design and development of a gravity-based game, creation of an interactive course using game mechanics based on opposing forces, the emphasis is on the colors used (blue vs red), designed as a team by sharing ideas and collaborating throughout the project
-- **Link**:
+- **Link**: https://github.com/Darkchaton/MagnetRunner
 
 
 ## 🚀 Current Goals
