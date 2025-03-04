@@ -18,6 +18,7 @@
 - 🌱 **State**: Prototype
 - 🛠️ **Technologies**: Unreal Engine 5, blueprints and VROID
 - 💡 **Main Features**: VROID character, Blueprints skills, UI, Design environment, HUD.
+- **Link**: Not on Github yet
 
 ### 🧠 Fractured Mind
 **Description**: Inspired by Unsorted Horror games, the player must solve a series of puzzles and mini games in a macabre sci-fi industrial universe. 
@@ -25,13 +26,15 @@
 - 🌱 **State**: Still in Development
 - 🛠️ **Technologies**: Unreal Engine 5, blueprints and c++
 - 💡 **Main Features**: Blueprints skills, puzzles, Design Environment
+- **Link**:
 
-### 💕 Magnet Runner
-**Description**: A game developed during my third session - It's a platform game using gravity and opposing forces
+### ⚙️ Magnet Runner
+**Description**: A game developed during my third school session - It's a platform game using gravity and opposing forces.
 
 - 🌱 **State**: Finished 
 - 🛠️ **Technologies**: Unity, c#
 - 💡 **Main Features**: Design and development of a gravity-based game, creation of an interactive course using game mechanics based on opposing forces, the emphasis is on the colors used (blue vs red), designed as a team by sharing ideas and collaborating throughout the project
+- **Link**:
 
 
 ## 🚀 Current Goals
