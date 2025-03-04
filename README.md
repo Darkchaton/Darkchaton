@@ -34,7 +34,7 @@
 - 🌱 **State**: Finished 
 - 🛠️ **Technologies**: Unity, c#
 - 💡 **Main Features**: Design and development of a gravity-based game, creation of an interactive course using game mechanics based on opposing forces, the emphasis is on the colors used (blue vs red), designed as a team by sharing ideas and collaborating throughout the project
-- **Link**: https://github.com/Darkchaton/MagnetRunner
+- **Link**: https://github.com/Darkchaton/MagnetRunner (Not a build yet)
 
 
 ## 🚀 Current Goals
