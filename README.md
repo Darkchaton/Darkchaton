@@ -39,9 +39,8 @@
 
 ## 🚀 Current Goals
 
-- 💻 Currently looking for an internship that will start in May 2025
+- 💻 Currently looking for an internship that will start May 12, 2025
 - 📚 Perfect some of my projects
-- 🎨 Publish my web development and game development portfolio
 
 ## 📫 Connect with Me  ✨
 
