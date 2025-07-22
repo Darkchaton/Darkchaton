@@ -39,8 +39,8 @@
 
 ## 🚀 Current Goals
 
-- 💻 Currently looking for an internship that will start May 12, 2025
-- 📚 Perfect some of my projects
+- 💻 Looking for collaborations or work
+- 📚 Perfect my projects and skills
 
 ## 📫 Connect with Me  ✨
 
