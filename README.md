@@ -1,18 +1,18 @@
 # 🌟 Welcome to My GitHub 🌟
  
 - Howdy, I am **@Darkchaton** ! But my real name is Amelia. ✨
-- I am a developer passionate about **creating**, wether it's through programming, drawing or writing. ✨ 
+- I am a developer passionate about **creating**, wether it's through programming, drawing or writing. 
 
-## 🎯 My Skills
+## My Skills
 
-- **Programming Languages**: Java, C#, Python, C++, JS, HTML, Css
+- **Programming Languages**: Java, C#, Python, C++, JS, HTML, Css, Javascript
 - **Technologies**: Unity, Unreal Engine, Ren'Py, Godot
 - **Design & Creation**: Ibis Paint and Picsart
-- **Databases**: MySQL, Access
+- **Databases**: MySQL, Access, PHP
 
-## 🔥 Featured PRINCIPAL Projects
+## Featured PRINCIPAL Projects
 
-### 🎭 Doll
+### Doll
 **Description**: The mid-term project that I developed during my 4th session. I took a lot of inspiration from the game Alisa, bringing to life a prototype where you control a doll that has to escape from a dark and dangerous mansion.
 
 - 🌱 **State**: Prototype
@@ -20,7 +20,7 @@
 - 💡 **Main Features**: VROID character, Blueprints skills, UI, Design environment, HUD.
 - **Link**: Not on Github yet
 
-### 🧠 Fractured Mind
+### Fractured Mind
 **Description**: Inspired by Unsorted Horror games, the player must solve a series of puzzles and mini games in a macabre sci-fi industrial universe. 
 
 - 🌱 **State**: Still in Development
@@ -28,25 +28,25 @@
 - 💡 **Main Features**: Blueprints skills, puzzles, Design Environment
 - **Link**: https://github.com/Darkchaton/FracturedMind (Not a build yet)
 
-### ⚙️ Magnet Runner
-**Description**: A game developed during my third school session - It's a platform game using gravity and opposing forces.
+### Halloween Game 2025 - Vanessa's book
+**Description**: In a dark, magic school, our main character must find Vanessa's book. To succeed, the player must complete four puzzles using their instincts, problem-solving skills, and research. Beware of the mannequins, though we don't yet understand the reason for their existence.
 
 - 🌱 **State**: Finished 
 - 🛠️ **Technologies**: Unity, c#
-- 💡 **Main Features**: Design and development of a gravity-based game, creation of an interactive course using game mechanics based on opposing forces, the emphasis is on the colors used (blue vs red), designed as a team by sharing ideas and collaborating throughout the project
-- **Link**: https://github.com/Darkchaton/MagnetRunner (Not a build yet)
+- 💡 **Main Features**: Puzzles, ennemies ai, Design Environment, logic in a small free world.
+- **Link**:  
 
 
-## 🚀 Current Goals
+## Current Goals
 
 - 💻 Looking for collaborations or work
 - 📚 Perfect my projects and skills
 
-## 📫 Connect with Me  ✨
+## Connect with Me  ✨
 
 - **LinkedIn**: [LinkedIn profile](https://www.linkedin.com/in/amélia-d-239496324/)
-- **Email**: ameliadulac12345@gmail.com
+- **Email**: ladycherripro@gmail.com
 
 #
 
-Thank you for stopping by! Feel free to reach out to discuss projects or eventual collaborations ✨
+Thank you for stopping by! Feel free to reach out to discuss projects or eventual collaborations.
