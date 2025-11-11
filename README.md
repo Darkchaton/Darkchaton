@@ -26,7 +26,8 @@
 - 🌱 **State**: Still in Development
 - 🛠️ **Technologies**: Unreal Engine 5, blueprints and c++
 - 💡 **Main Features**: Blueprints skills, puzzles, Design Environment
-- **Link**: https://github.com/Darkchaton/FracturedMind (Not a build yet)
+- **Github reposit**: https://github.com/Darkchaton/FracturedMind
+- **Build**: https://ladycherri.itch.io/fracturedmind
 
 ### Halloween Game 2025 - Vanessa's book
 **Description**: In a dark, magic school, our main character must find Vanessa's book. To succeed, the player must complete four puzzles using their instincts, problem-solving skills, and research. Beware of the mannequins, though we don't yet understand the reason for their existence.
@@ -34,7 +35,8 @@
 - 🌱 **State**: Finished 
 - 🛠️ **Technologies**: Unity, c#
 - 💡 **Main Features**: Puzzles, ennemies ai, Design Environment, logic in a small free world.
-- **Link**:  
+- **Github reposit**:  
+- **Build**: 
 
 
 ## Current Goals
