@@ -21,9 +21,9 @@
 - **Link**: Not on Github yet
 
 ### Fractured Mind
-**Description**: Inspired by Unsorted Horror games, the player must solve a series of puzzles and mini games in a macabre sci-fi industrial universe. 
+**Description**: Inspired by Unsorted Horror games, the player must solve a series of puzzles and mini games in a macabre sci-fi industrial universe. The player wakes up in a dream, where they're lead by a doctor's voice. To discover their scattered memories, they must reunite all the collectibles and solve all the puzzles.
 
-- 🌱 **State**: Still in Development
+- 🌱 **State**: Finished
 - 🛠️ **Technologies**: Unreal Engine 5, blueprints and c++
 - 💡 **Main Features**: Blueprints skills, puzzles, Design Environment
 - **Github reposit**: https://github.com/Darkchaton/FracturedMind
@@ -37,7 +37,6 @@
 - 💡 **Main Features**: Puzzles, ennemies ai, Design Environment, logic in a small free world.
 - **Github reposit**:  
 - **Build**: 
-
 
 ## Current Goals
 
