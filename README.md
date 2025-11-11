@@ -35,8 +35,8 @@
 - 🌱 **State**: Finished 
 - 🛠️ **Technologies**: Unity, c#
 - 💡 **Main Features**: Puzzles, ennemies ai, Design Environment, logic in a small free world.
-- **Github reposit**:  
-- **Build**: 
+- **Github reposit**: https://github.com/Darkchaton/VideoGameHalloween
+- **Build**: https://ladycherri.itch.io/halloweengame2025
 
 ## Current Goals
 
