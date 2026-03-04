@@ -1,12 +1,12 @@
 # 🌟 Welcome to My GitHub 🌟
  
-- Howdy, I am **@Darkchaton** ! But my real name is Amelia. ✨
+- Howdy, I am **@LadyCherri** ! But my real name is Amelia.
 - I am a developer passionate about **creating**, wether it's through programming, drawing or writing. 
 
 ## My Skills
 
 - **Programming Languages**: Java, C#, Python, C++, JS, HTML, Css, Javascript
-- **Technologies**: Unity, Unreal Engine, Ren'Py, Godot
+- **Technologies**: Unity, Unreal Engine, Renpy, Godot
 - **Design & Creation**: Ibis Paint and Picsart
 - **Databases**: MySQL, Access, PHP
 
@@ -26,7 +26,7 @@
 - 🌱 **State**: Finished
 - 🛠️ **Technologies**: Unreal Engine 5, blueprints and c++
 - 💡 **Main Features**: Blueprints skills, puzzles, Design Environment
-- **Github reposit**: https://github.com/Darkchaton/FracturedMind
+- **Github reposit**: https://github.com/LadyCherri/FracturedMind
 - **Build**: https://ladycherri.itch.io/fracturedmind
 
 ### Halloween Game 2025 - Vanessa's book
@@ -35,7 +35,7 @@
 - 🌱 **State**: Finished 
 - 🛠️ **Technologies**: Unity, c#
 - 💡 **Main Features**: Puzzles, ennemies ai, Design Environment, logic in a small free world.
-- **Github reposit**: https://github.com/Darkchaton/VideoGameHalloween
+- **Github reposit**: https://github.com/LadyCherri/VideoGameHalloween
 - **Build**: https://ladycherri.itch.io/halloweengame2025
 
 ## Current Goals
